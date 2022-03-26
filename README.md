@@ -1,16 +1,10 @@
 # deepklarity
 
-A new Flutter project.
+Flutter project for caching images and storing json data locally.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/68138315/160241085-d2814702-e85d-464b-9f1d-93630f2975b1.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
